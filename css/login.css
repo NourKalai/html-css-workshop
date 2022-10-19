@@ -1,0 +1,43 @@
+body{
+    background: url('../images/je.jpg');
+    background-size: 'cover';
+    /* background-repeat: no-repeat; */
+}
+.container {
+    max-width: 380px;
+    margin:auto;
+    margin-top: 80px;
+    background-color: rgba(0,0,0,0.8); 
+    border-radius: 20px;
+    text-align: center;
+    padding: 30px;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+h2{
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+}
+input{
+    width:100%;
+    margin:10px 0;
+    /* outline:none; */
+    background-color: transparent;
+    color: #fff;
+    padding:10px 6px;
+    font-size: 18px;
+    font-weight: bold;
+    
+
+}
+button{
+    width:80%;
+    border-radius:12px;
+    padding:10px;
+    background-color: rgb(90,120,190);
+    color:#fff;
+    font-size:20px;
+    font-weight: bold;
+}

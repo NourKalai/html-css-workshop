@@ -1,0 +1,36 @@
+h1{
+    color:040D5B;
+    font-family: verdana;
+}
+p{
+    color:blueviolet;
+    font-size: 18px;
+
+}
+/* button{
+    color:rgb(4, 37, 59);
+} */
+.btn{
+    color:rgb(5, 19, 3);
+    background-color: rgb(26, 148, 97);
+    border:none;
+    padding:10px
+
+}
+.btn:hover{
+    color:rgb(4,37,59);
+    background-color: rgb(134, 4, 37);
+    border:none;
+    padding:10px
+}
+.btn1 {
+    color:rgb(5, 19, 3);
+    background-color: rgb(26, 148, 97);
+    border:none;
+    padding:10px
+
+}
+.btn1:hover {
+    background-color: rgb(26, 148, 97);
+color:brown
+}
